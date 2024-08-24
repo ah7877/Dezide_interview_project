@@ -1,0 +1,16 @@
+{
+  "globalModel": {
+    "monetaryValueOfOneHour": 300,
+    "configs": {
+      "risk": "low",
+      "inconvenience": "high"
+    }
+  },
+  "model1234": {
+    "monetaryValueOfOneHour": 500,
+    "configs": {
+      "risk": "high",
+      "inconvenience": "medium"
+    }
+  }
+}
